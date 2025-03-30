@@ -1,1 +1,1 @@
-# covid19dataanalysis
+This is a program that entails the analysis of the data and the events that happened during COVID-19. This analyzes the amount of vaccinations compared to the amount of cases, and obsevres the linear progression of the case numbers of the years, and compares different countries as well.
